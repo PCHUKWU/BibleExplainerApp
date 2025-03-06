@@ -1,0 +1,60 @@
+# Scripture Navigator: A Comprehensive Bible Study Application
+
+## 📖 Overview
+
+Scripture Navigator is a powerful, multi-platform Bible study tool designed for users of all ages. This application combines modern technology with scriptural depth to create an engaging, educational, and spiritually enriching experience for Bible study.
+
+## ✨ Key Features
+
+- **AI-Powered Bible Chat** - Ask questions about scripture and receive answers based solely on biblical content
+- **Age-Appropriate Content** - Automatically adjusts explanations and activities based on user age group
+- **Verse Analysis** - Deep breakdown of scripture with word studies and cross-references
+- **Original Language Study** - Access Hebrew and Greek original texts with definitions and usage examples
+- **Interactive Study Plans** - Guided thematic studies with activities and tracking
+- **Multi-Translation Support** - Compare verses across various Bible translations
+- **Offline Mode** - Study without internet access with downloadable content
+- **Personal Notes & Highlights** - Create and organize your study notes
+- **Community Features** - Share insights and discuss interpretations with others
+- **Cross-Platform** - Available on web, iOS, Android, and Windows
+
+## 🔧 Technology Stack
+
+- **Frontend**: React, React Native, TypeScript, Tailwind CSS
+- **Backend**: Node.js, Express, PostgreSQL
+- **AI/ML**: Natural Language Processing for scripture analysis
+- **Mobile**: React Native for cross-platform mobile support
+- **Desktop**: Electron for Windows app packaging
+
+## 📱 Platforms
+
+Scripture Navigator is available on:
+- Web browsers
+- iOS devices (iPhone & iPad)
+- Android devices
+- Windows desktop
+
+## 👪 For All Ages
+
+The app features specialized content for:
+- **Children** - Interactive stories, games, and simplified explanations
+- **Youth** - Engaging study material relevant to teen life
+- **Adults** - Deep theological studies and comprehensive tools
+- **Scholars** - Original language analysis and academic resources
+
+## 🚀 Getting Started
+
+See our [Setup Guide](./SETUP.md) for development instructions.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please read our [Contributing Guidelines](./CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## 🙏 Acknowledgements
+
+- All Bible translations are provided by [Bible API Provider]
+- Original language studies powered by [Strong's Concordance]
+- Historical context provided by [Historical Sources]
